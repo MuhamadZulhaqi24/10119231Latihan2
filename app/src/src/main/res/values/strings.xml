@@ -1,0 +1,49 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">10119231Latihan2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="or">OR</string>
+    <string name="loginfb">Connect to Facebook</string>
+    <string name="regist">doesn\'t have account? <b>Register\</b></string>
+    <!--                                             harusnya text register dipisah-->
+    <string name="textregis">Register</string>
+    <string name="email">Email</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="repassword">Retype password</string>
+    <string name="male">Male</string>
+    <string name="Female">Female</string>
+    <string name="bloodtype">Blood Type</string>
+    <string name="reshus">Reshus</string>
+    <string name="personal">Personal</string>
+    <string name="organisasi">Organization</string>
+    <string name="job">Job</string>
+    <string name="alamat">Home Address</string>
+    <string name="defaultaddress">Default Address</string>
+    <string name="term">Agree with Terms and Conditions</string>
+    <string name="radio_on">radio_on</string>
+    <string name="radio_off">radio_off</string>
+    <string name="arrowdown">arrowdown</string>
+
+    <!--    bagian verify-->
+
+    <string name="almost">Almost There</string>
+    <string name="thank">Thank you for registering with us. One more step, you need to check your email to active your account</string>
+    <string name="verif">VERIFY</string>
+
+
+    <!--    bagian mengirim email-->
+
+    <string name="judul_bagian4">Verify your Account</string>
+    <string name="title_judul4">We have send verification code to your email</string>
+    <string name="masukan_code">enter verification code here...</string>
+    <string name="kirim">Send</string>
+    <string name="kirim_ulang">doesn\'t get the code? <b>Resend\</b></string>
+
+    <!--    bagian home-->
+    <string name="namaorang">Muhamad Zulhaqi</string>
+    <string name="golongan_darah">Blood Type : B</string>
+    <string name="bloodgive">BLOOD GIVE</string>
+    <string name="bloodreceive">BLOOD RECEIVE</string>
+    <string name="thanks">THANKS</string>
+    <string name="searchdonor">Search Donor</string>
+</resources>
